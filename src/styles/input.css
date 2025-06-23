@@ -1,2 +1,19 @@
+/* src/styles/input.css */
+
+/* --- EL PUNTO DE ENTRADA DE TAILWIND --- */
+
+/* Esta única línea es la instrucción clave en Tailwind CSS v4.
+   Es como decirle al sistema: "Oye Tailwind, por favor, actívate aquí".
+
+   Tailwind escaneará todos nuestros archivos (Vue, HTML, JS), verá las clases que
+   usamos (como 'bg-blue-600', 'text-center', etc.), y generará automáticamente
+   todo el CSS necesario para que esas clases funcionen.
+
+   En versiones anteriores de Tailwind, aquí se necesitaban tres líneas (@tailwind base,
+   @tailwind components, @tailwind utilities). La v4 lo simplifica a una sola.
+*/
 @import "tailwindcss";
 
+/* Si quisiéramos personalizar los colores o fuentes de Tailwind (por ejemplo, crear
+   un color 'primary'), lo haríamos aquí debajo, usando la regla @theme { ... }.
+*/
