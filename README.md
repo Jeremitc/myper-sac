@@ -28,6 +28,7 @@ Este proyecto está construido con las siguientes tecnologías de vanguardia:
 
 El proyecto sigue una estructura lógica y escalable, separando las responsabilidades de forma clara.
 
+```text
 src
 ├── components/ # Componentes reutilizables y "tontos" (presentacionales)
 │ ├── UserModal.vue # El formulario emergente para crear/editar.
@@ -50,7 +51,7 @@ src
 │
 ├── App.vue # Componente raíz de la aplicación.
 └── main.ts # Punto de entrada de la aplicación.
-
+```
 
 ## ⚙️ Puesta en Marcha
 
