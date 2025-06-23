@@ -2,8 +2,6 @@
 
 Este proyecto es una aplicación web completa para la gestión de usuarios (Crear, Leer, Actualizar, Eliminar - CRUD) construida con un stack tecnológico moderno. Sirve como una demostración práctica de las mejores prácticas en el desarrollo con Vue 3, incluyendo la Composition API, TypeScript, una arquitectura de componentes bien definida y diseño responsivo.
 
-![Captura de pantalla de la aplicación](./screenshot.png)
-*(Nota: Añade una captura de pantalla del proyecto y renómbrala a `screenshot.png` para que se muestre aquí.)*
 
 ## ✨ Características Principales
 
